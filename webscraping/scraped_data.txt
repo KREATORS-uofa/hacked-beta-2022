@@ -1,0 +1,151 @@
+['calgary', 'edmonton', 'red_deer', 'airdrie', 'lethbridge', 'medicine_hat', 'strathcona_county', 'st_albert', 'wood_buffalo', 'spruce_grove', 'cochrane', 'rocky_view_county', 'okotoks', 'parkland_county', 'foothills_no_31', 'leduc', 'sherwood_park', 'red_deer_county', 'blackfalds', 'sturgeon_county', 'sylvan_lake', 'brooks', 'lacombe', 'canmore', 'fort_mcmurray', 'fort_saskatchewan', 'alberta', 'stony_plain', 'high_river', 'lacombe_county', 'leduc_county', 'strathmore', 'chestermere', 'wetaskiwin_county_no_10', 'grande_prairie', 'slave_lake', 'mountain_view_county', 'grande_prairie_county_no_1', 'ponoka_county', 'hinton', 'olds', 'carstairs', 'athabasca_county', 'lac_ste_anne_county', 'bonnyville_no_87', 'drumheller', 'clearwater_county', 'cypress_county', 'willow_creek_no_26', 'ponoka']
+calgary
+2021: 527
+2022: 1291
+edmonton
+2021: 500
+2022: 863
+red_deer
+2021: 149
+2022: 486
+airdrie
+2021: 84
+2022: 216
+lethbridge
+2021: 199
+2022: 298
+medicine_hat
+2021: 72
+2022: 119
+strathcona_county
+2021: 55
+2022: 146
+st_albert
+2021: 67
+2022: 122
+wood_buffalo
+2021: 39
+2022: 49
+spruce_grove
+2021: 75
+2022: 75
+cochrane
+2021: 153
+2022: 237
+rocky_view_county
+2021: 46
+2022: 152
+okotoks
+2021: 59
+2022: 209
+parkland_county
+2021: 75
+2022: 315
+foothills_no_31
+2021: 29
+2022: 66
+leduc
+2021: 94
+2022: 240
+sherwood_park
+2021: 99
+2022: 126
+red_deer_county
+2021: 44
+2022: 229
+blackfalds
+2021: 57
+2022: 54
+sturgeon_county
+2021: 55
+2022: 276
+sylvan_lake
+2021: 53
+2022: 87
+brooks
+2021: 66
+2022: 92
+lacombe
+2021: 60
+2022: 107
+canmore
+2021: 82
+2022: 195
+fort_mcmurray
+2021: 97
+2022: 146
+fort_saskatchewan
+2021: 63
+2022: 199
+alberta
+2021: 1993
+2022: 3811
+stony_plain
+2021: 61
+2022: 98
+high_river
+2021: 48
+2022: 123
+lacombe_county
+2021: 34
+2022: 51
+leduc_county
+2021: 51
+2022: 106
+strathmore
+2021: 42
+2022: 82
+chestermere
+2021: 34
+2022: 34
+wetaskiwin_county_no_10
+2021: 29
+2022: 29
+grande_prairie
+2021: 106
+2022: 200
+slave_lake
+2021: 59
+2022: 76
+mountain_view_county
+2021: 43
+2022: 153
+grande_prairie_county_no_1
+2021: 29
+2022: 75
+ponoka_county
+2021: 32
+2022: 56
+hinton
+2021: 60
+2022: 88
+olds
+2021: 93
+2022: 345
+carstairs
+2021: 37
+2022: 110
+athabasca_county
+2021: 34
+2022: 80
+lac_ste_anne_county
+2021: 29
+2022: 68
+bonnyville_no_87
+2021: 25
+2022: 23
+drumheller
+2021: 51
+2022: 85
+clearwater_county
+2021: 31
+2022: 130
+cypress_county
+2021: 25
+2022: 72
+willow_creek_no_26
+2021: 27
+2022: 30
+ponoka
+2021: 60
+2022: 117
